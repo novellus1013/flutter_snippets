@@ -1,5 +1,5 @@
 class AppSpacing {
-  AppSpacing._();
+  const AppSpacing._();
 
   //아이콘과 텍스트 사이 같이 아주 작은 틈만 띄우는 용도
   static const double xs = 4.0;

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_snippets/constants/app_spacing.dart';
 import 'package:flutter_snippets/constants/app_theme.dart';
 
 void main() {

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppColor {
   //private constructor
-  AppColor._();
+  const AppColor._();
 
   static const primary = Colors.yellow;
   static const secondary = Colors.green;
